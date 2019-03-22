@@ -1,0 +1,10 @@
+README.md
+setup.py
+mashhack/__init__.py
+mashhack/recursion.py
+mashhack/sorting.py
+mashhack.egg-info/PKG-INFO
+mashhack.egg-info/SOURCES.txt
+mashhack.egg-info/dependency_links.txt
+mashhack.egg-info/requires.txt
+mashhack.egg-info/top_level.txt
